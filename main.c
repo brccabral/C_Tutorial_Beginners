@@ -7,7 +7,7 @@ double cube(double number);
 
 int main()
 {
-    twoD_arrays_nested_loops();
+    memory_access();
 
     return 0;
 }
