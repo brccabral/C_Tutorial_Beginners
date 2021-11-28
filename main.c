@@ -5,6 +5,7 @@ int main()
 {
     //numbers();
     //input();
-    calculator();
+    //calculator();
+    madlibs();
     return 0;
 }

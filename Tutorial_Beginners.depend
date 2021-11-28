@@ -1,13 +1,18 @@
 # depslib dependency file v1.0
-1638131370 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
+1638132551 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
 	<stdio.h>
 	<stdlib.h>
 
-1638131224 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/input.c
+1638132207 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/input.c
 	<stdio.h>
 	<stdlib.h>
 
 1638131370 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/numbers.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1638132212 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/calculator.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
