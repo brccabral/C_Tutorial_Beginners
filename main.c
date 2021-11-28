@@ -8,7 +8,7 @@ int main()
 {
     //numbers();
     //input();
-    //calculator();
+    calculator();
     //madlibs();
     //arrays();
     //printf("Top\n");
@@ -16,8 +16,8 @@ int main()
     //sayHi("Jane", 40);
     //sayHi("Tom", 51);
     //printf("Bottom\n");
-    printf("Answer %f\n", cube(3.0));
-    printf("Answer %f\n", cube(7.0));
+    //printf("Answer %f\n", cube(3.0));
+    //printf("Answer %f\n", cube(7.0));
     return 0;
 }
 
