@@ -1,5 +1,14 @@
 # depslib dependency file v1.0
-1638116630 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
+1638117476 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
 	<stdio.h>
 	<stdlib.h>
+
+1638117725 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/input.c
+	<stdio.h>
+	<stdlib.h>
+
+1638117534 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/numbers.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
 
