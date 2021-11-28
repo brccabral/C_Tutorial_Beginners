@@ -7,7 +7,7 @@ double cube(double number);
 
 int main()
 {
-    guessingGame();
+    twoD_arrays_nested_loops();
 
     return 0;
 }
