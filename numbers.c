@@ -20,5 +20,5 @@
     printf("%f\n", ceil(36.324));
     printf("%f\n", floor(36.724));
 
-     return 0;
+    return 0;
  }

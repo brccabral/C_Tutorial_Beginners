@@ -9,7 +9,7 @@ int input() {
 
     double gpa;
     printf("Enter your gpa: ");
-    scanf("%lf", &gpa);
+    scanf("%lf", &gpa); // for double values needs to be %lf, not just %f
     printf("Your gpa is %f\n", gpa);
 
     char grade;

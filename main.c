@@ -3,7 +3,8 @@
 
 int main()
 {
-    numbers();
-    input();
+    //numbers();
+    //input();
+    calculator();
     return 0;
 }
