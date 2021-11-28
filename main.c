@@ -3,17 +3,10 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    printf("   /|!\n");
-    printf("  / |!\n");
-    printf(" /  |!\n");
-    printf("/___|!\n");
-
-    char characterName[] = "John";
-    int characterAge = 35;
-
-    printf("There was a man named %s\", characterName);
-    printf("He was %d years old\n", characterAge);
+    int age = 40;
+    double gpa = 3.7;
+    char grade = 'A';
+    char phrase[] = "Giraffe Academy";
 
     return 0;
 }
