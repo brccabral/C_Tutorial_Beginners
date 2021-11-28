@@ -7,7 +7,7 @@ double cube(double number);
 
 int main()
 {
-    structures();
+    guessingGame();
 
     return 0;
 }

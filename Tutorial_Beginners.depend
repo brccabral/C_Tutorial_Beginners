@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1638134119 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
+1638135097 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 
 1638132207 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/input.c
 	<stdio.h>
@@ -24,4 +25,13 @@
 1638133146 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/arrays.c
 	<stdio.h>
 	<stdlib.h>
+
+1638134959 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/guessing_game.c
+	<stdio.h>
+	<stdlib.h>
+
+1638135063 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/structures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
 
