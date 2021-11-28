@@ -6,6 +6,7 @@ int main()
     //numbers();
     //input();
     //calculator();
-    madlibs();
+    //madlibs();
+    arrays();
     return 0;
 }

@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdlib.h>
 
 int madlibs()
@@ -17,4 +18,6 @@ int madlibs()
     printf("Roses are %s\n", color);
     printf("%s are blue\n", pluralNoun);
     printf("I love %s %s\n", celebrityFirst, celebrityLast);
+
+    return 0;
 }
