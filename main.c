@@ -7,7 +7,7 @@ double cube(double number);
 
 int main()
 {
-    memory_access();
+    file_read_write();
 
     return 0;
 }

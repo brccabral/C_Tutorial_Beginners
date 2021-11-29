@@ -31,13 +31,37 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="arrays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calculator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file_read_write.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="guessing_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="madlibs.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="memory_access.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structures.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="twoD_arrays_nested_loops.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />

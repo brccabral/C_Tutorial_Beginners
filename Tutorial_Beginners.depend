@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1638141398 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
+1638142587 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -39,7 +39,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1638142210 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/memory_access.c
+1638142520 source:/media/brccabral/Data/C_Projects/Tutorial_Beginners/memory_access.c
 	<stdio.h>
 	<stdlib.h>
 
